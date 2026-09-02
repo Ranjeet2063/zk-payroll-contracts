@@ -17,5 +17,6 @@ build/circuits/
 *.wtns
 
 # Environment / secrets
-.env
-.env.*
+.opencode
+config.bat
+node_modules
